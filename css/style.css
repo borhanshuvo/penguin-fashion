@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    font-size: 90px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(25, 22, 59);
+}
+.logo-image{
+    width: 250px;
+    height: 35px;
+}
+.header-section{
+    background-color: rgb(255, 251, 239);
+    padding-bottom: 60px;
+}
+.navbar-nav{
+    font-size: 20px;
+}
+.navbar-nav a{
+    margin-right: 20px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+.be-the-penguin{
+    color: rgb(163, 188, 70);
+}
+.of-winter{
+    color: rgb(25, 22, 59);
+}
+.buy-button{
+    color: white;
+    background-color: rgb(163, 188, 70);
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: 0;
+}
+.buyButton i{
+    position: relative;
+}
+p{
+    text-align: justify;
+}
+.profile-image{
+    width: 500px;
+    height: 500px;
+}
+.card-design{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card-design h4{
+    font-weight: bold;
+    font-size: 25px;
+}
+.card-design h3{
+    color: rgb(223, 170, 78);
+    font-weight: bold;
+    font-size: 40px;
+}
+.penguin-card-image{
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+    background-color: rgb(241, 241, 241);
+    padding: 15px;
+    align-items: center;
+}
+.penguin-card{
+    border: 0;
+    background-color: white;
+    border-radius: 15px;
+}
+.penguin-card-footer{
+    background-color: white;
+    border-top: 0;
+}
+.about-us{
+    margin-top: 180px;
+}
+.about-us-section img{
+    width: 80px;
+    height: 80px;
+}
+.about-us-box{
+    margin-bottom: 40px;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+.about-us-image{
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.form-position {
+    margin-bottom: 20px;
+}
+.form-input {
+    display: block;
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid rgb(204, 204, 204);
+}
+label{
+    margin-left: 24.5%;
+}
+.input-center{
+    margin: 0 auto;
+    width: 50%;
+}
